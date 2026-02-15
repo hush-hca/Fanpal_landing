@@ -1,0 +1,7 @@
+{
+  "name": "Fanpal - AI Fandom Oxygen",
+  "description": "An AI-powered platform designed to revitalize minor and classic genre fandoms by providing customizable AI fandom mates that react, analyze, and generate content alongside fans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
